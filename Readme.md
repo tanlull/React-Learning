@@ -1,0 +1,1 @@
+Book: Learning React: A Hands-On Guide to Building Web Applications Using React and Redux, Web Edition
